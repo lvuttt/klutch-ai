@@ -1,0 +1,57 @@
+
+
+Klutch AI Take-home Assignment: ChatGPT for 
+Construction Docs 
+1. Goal 
+Design and prototype a ChatGPT-like assistant for the construction world, capable of answering 
+factual, grounded questions based on a document provided by the user. 
+This AI should behave like a helpful site assistant - it doesn’t hallucinate, and all its answers 
+must come from real information in the documents it’s given. 
+ 
+2. What We’re Looking For
+ 
+● Clear thinking: How you frame the problem and make decisions 
+● Creativity in modeling or tool usage 
+● A proof-of-concept or partial demo (code snippets, notebooks, or mini app) 
+● Light code is OK - we care more about what you choose to build and why. 
+● You don’t have to build every feature, but we would love to see a functional demo for the 
+key features 
+● Feel free to use AI to assist your development 
+ 
+3. The Assignment
+ 
+a. Inputs 
+You’ll work with a real construction document. The example is attached in the email. 
+Assume this is one of many documents a user might upload. 
+b. Task 
+Build a mini system that allows: 
+1. The user to upload a PDF construction document 
+2. The assistant to answer factual questions grounded in that document 
+Example user questions: 
+
+● What’s the size of the bathtub on the second floor? 
+● What type of cooktop is used for the kitchen? 
+● Is weather stripping required for the doors? 
+● What’s the size of the house number? 
+ 
+4. What You Should Submit 
+Please include the following in a single GitHub repo or ZIP: 
+1. README: Describe: 
+○ Your system architecture and reasoning 
+○ How your approach ensures factual grounding 
+○ What tradeoffs you made 
+○ How you would scale this 
+2. Prototype or sample code (language of your choice): 
+○ This can be a small web app, a Jupyter notebook, or a script that shows the core 
+idea working 
+3. Sample Q&A results - Include at least 2-3 sample questions and the assistant’s 
+response 
+ 
+5. Time Limit 
+We expect this to take ~3 hours. You don’t need to make it perfect — we just want to see how 
+you think and build. 
+ 
+6. Submission 
+Please send your repo link or ZIP back to us within 48-72 hours (or suggest a timeline that 
+works for you). 
+ 
